@@ -16,3 +16,12 @@ img {
     display: block;
     margin: auto;
 }
+
+.workharder {
+  color: purple;
+}
+
+.allowance {
+  color: green;
+  text-align: center;
+}
